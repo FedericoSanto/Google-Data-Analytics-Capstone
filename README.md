@@ -52,7 +52,7 @@ Here's a list of steps taken and questions that arose during the analysis:
   ![Ride Duration by Member Type](plot_ride_duration_distribution_by_member_type.png)  
   -->
 
-  <img align="left" src="plot_ride_duration_distribution_by_member_type.png" alt="Ride Duration by Member Type">
+  <img align="center" src="plot_ride_duration_distribution_by_member_type.png" alt="Ride Duration by Member Type">
     
   ![Ride Start Times by Member Type](plot_ride_start_times_by_member_type.png) 
   
