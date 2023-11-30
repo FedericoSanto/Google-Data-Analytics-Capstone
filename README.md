@@ -55,6 +55,7 @@ Here's a list of steps taken and questions that arose during the analysis:
   -->
 <p align="center">
   <img align="center" src="plot_ride_duration_distribution_by_member_type.png" alt="Ride Duration by Member Type">
+</br></br>
   
   <img align="center" src="plot_ride_start_times_by_member_type.png" alt="Ride Start Times by Member Type">
 </p>
