@@ -113,12 +113,14 @@ Incentivize morning rides:
 
 
 **Measuring success**
+
 The impact of the campaign will be tracked through:
 
 - Changes in ridership during morning hours.
 - Conversion rates of casual riders to annual members.
 
 **Strategic flexibility**
+
 The success metrics will serve as a compass for data-driven decision-making. This approach allows for ongoing assessment and adjustments to the campaign strategy, ensuring adaptability to changing dynamics.
 
 In essence, this targeted marketing initiative aligns with Cyclistic's overarching goal of maximizing annual memberships for sustained and profitable growth.
