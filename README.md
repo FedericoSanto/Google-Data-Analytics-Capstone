@@ -49,13 +49,15 @@ Here's a list of steps taken and questions that arose during the analysis:
   It was noted that both groups had similar distributions with the majority of rides being within 20 minutes.
   
   <!--    
-  ![Ride Duration by Member Type](plot_ride_duration_distribution_by_member_type.png)  
-  -->
-
-  <img align="center" src="plot_ride_duration_distribution_by_member_type.png" alt="Ride Duration by Member Type">
-    
-  ![Ride Start Times by Member Type](plot_ride_start_times_by_member_type.png) 
+    ![Ride Duration by Member Type](plot_ride_duration_distribution_by_member_type.png)
+    ![Ride Start Times by Member Type](plot_ride_start_times_by_member_type.png) 
   
+  -->
+<p align="center">
+  <img align="center" src="plot_ride_duration_distribution_by_member_type.png" alt="Ride Duration by Member Type">
+  
+  <img align="center" src="plot_ride_start_times_by_member_type.png" alt="Ride Start Times by Member Type">
+</p>
   <!--   
   <img align="right" src="plot_ride_start_times_by_member_type.png" alt="Ride Start Times by Member Type">  
   -->
