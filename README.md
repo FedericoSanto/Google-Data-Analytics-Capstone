@@ -81,7 +81,10 @@ Here's a list of steps taken and questions that arose during the analysis:
 
 
 **Top Starting Stations for Casual Riders**
-![Top Starting Stations for Casual Riders](viz_geographical_05_casual.png)
+![Top Starting Stations for Casual Riders](viz_geographical_05_casual_start.png)
+
+**Top Ending Stations for Casual Riders**
+![Top Ending Stations for Casual Riders](viz_geographical_05_casual_end.png)
 
 
 Here's the [RStudio code](RStudio_code.r).
