@@ -30,15 +30,18 @@ Here's a list of steps taken and questions that arose during the analysis:
   - Create a grid of plots based on ride duration and member type.
     - The vast majority of data falls into the 0-100 group. How many rides would we exclude if we focus on this group?
 
-#### Ride Duration Distribution:
+**Ride Duration Distribution:**
+
   Rides with durations of less than 1 minute and over 10 hours were filtered out. The data was then analyzed for ride duration distribution.
   It was observed that 99.8% of rides were within 100 minutes.
   
-#### Start and End Station Information:
+**Start and End Station Information:**
+
   Rides with missing start and end station information were examined. 6.8% of rides had incomplete station details.
   This phenomenon was more prominent in the "electric_bike" group, affecting 44.4% of casual riders and 55.6% of annual members.
 
-#### Ride Duration by Member Type:
+**Ride Duration by Member Type:**
+
   Ride duration distributions were visualized for both casual and annual members.
   It was noted that both groups had similar distributions with the majority of rides being within 20 minutes.
   
@@ -57,12 +60,15 @@ Here's a list of steps taken and questions that arose during the analysis:
   
 #### Popular Routes:
   Routes were analyzed based on start and end stations to identify the most frequently used routes for casual and annual members.
-  ### Top Routes for Annual Members
+  
+  **Top Routes for Annual Members**
+  
   - Ellis Ave & 60th St to University Ave & 57th St (6,401 rides)
   - Ellis Ave & 60th St to Ellis Ave & 55th St (6,138 rides)
   - University Ave & 57th St to Ellis Ave & 60th St (5,872 rides)
   
-  ### Top Routes for Casual Riders
+  **Top Routes for Casual Riders**
+  
   - Streeter Dr & Grand Ave to Streeter Dr & Grand Ave (8,471 rides)
   - DuSable Lake Shore Dr & Monroe St to DuSable Lake Shore Dr & Monroe St (6,632 rides)
   - DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave (5,275 rides)
