@@ -98,19 +98,27 @@ Here's the [RStudio code](RStudio_code.r).
 
 ## Conclusions
 
-I would suggest creating a marketing campaign targeted at casual riders that exemplifies the benefits of memberships.
+In conclusion, the analysis underscores a compelling opportunity for Cyclistic to boost profitability by transitioning casual riders into annual members. The strategy involves implementing a targeted marketing campaign designed to showcase the benefits of membership, leveraging the existing awareness among casual riders.
 
-- Use printed ads located in the most popular stations for this type of user.
+**Recommended actions**
+
+Strategic ad placement:
+- Deploy printed ads strategically at high-traffic stations frequented by casual riders, including:
   - Streeter Dr & Grand Ave to Streeter Dr & Grand Ave
   - DuSable Lake Shore Dr & Monroe St to DuSable Lake Shore Dr & Monroe St
   - DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave
 
-- The most popular starting ride times are in the afternoon (4 pm to 6 pm). Create a campaign offering discounts for Casual riders in the morning hours, to make it more attractive.
+Incentivize morning rides:
+- Recognizing the popularity of afternoon rides, consider offering morning discounts for casual riders. This approach aims to make membership more appealing during specific time slots.
 
 
+**Measuring success**
+The impact of the campaign will be tracked through:
 
-**Measurable Impact**
+- Changes in ridership during morning hours.
+- Conversion rates of casual riders to annual members.
 
-The campaign's success can be measured by tracking the change in ridership during morning hours and the conversion rate of casual riders to members.
+**Strategic flexibility**
+The success metrics will serve as a compass for data-driven decision-making. This approach allows for ongoing assessment and adjustments to the campaign strategy, ensuring adaptability to changing dynamics.
 
-This allows for data-driven evaluation and adjustments to the campaign strategy based on performance.
+In essence, this targeted marketing initiative aligns with Cyclistic's overarching goal of maximizing annual memberships for sustained and profitable growth.
