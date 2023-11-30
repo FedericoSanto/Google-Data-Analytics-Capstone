@@ -43,19 +43,28 @@ Here's a list of steps taken and questions that arose during the analysis:
   It was noted that both groups had similar distributions with the majority of rides being within 20 minutes.
   
   ![Ride Duration by Member Type](plot_ride_duration_distribution_by_member_type.png)
+    
+  ![Ride Start Times by Member Type](plot_ride_start_times_by_member_type.png) 
   
-  ![Ride Start Times by Member Type](plot_ride_start_times_by_member_type.png)
+  <!--   
+  <img align="left" src="plot_ride_duration_distribution_by_member_type.png" alt="Ride Duration by Member Type">
+  
+  <img align="right" src="plot_ride_start_times_by_member_type.png" alt="Ride Start Times by Member Type">  
+  -->
+  
+
+
   
 #### Popular Routes:
   Routes were analyzed based on start and end stations to identify the most frequently used routes for casual and annual members.
-   # Top Routes for Annual Members:
-    # Ellis Ave & 60th St to University Ave & 57th St (6,401 rides)
-    # Ellis Ave & 60th St to Ellis Ave & 55th St (6,138 rides)
-    # University Ave & 57th St to Ellis Ave & 60th St (5,872 rides)
+  ### Top Routes for Annual Members
+  - Ellis Ave & 60th St to University Ave & 57th St (6,401 rides)
+  - Ellis Ave & 60th St to Ellis Ave & 55th St (6,138 rides)
+  - University Ave & 57th St to Ellis Ave & 60th St (5,872 rides)
   
-  # Top Routes for Casual Riders:
-    # Streeter Dr & Grand Ave to Streeter Dr & Grand Ave (8,471 rides)
-    # DuSable Lake Shore Dr & Monroe St to DuSable Lake Shore Dr & Monroe St (6,632 rides)
-    # DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave (5,275 rides)
+  ### Top Routes for Casual Riders
+  - Streeter Dr & Grand Ave to Streeter Dr & Grand Ave (8,471 rides)
+  - DuSable Lake Shore Dr & Monroe St to DuSable Lake Shore Dr & Monroe St (6,632 rides)
+  - DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave (5,275 rides)
 
     
