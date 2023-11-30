@@ -79,6 +79,11 @@ Here's a list of steps taken and questions that arose during the analysis:
   - DuSable Lake Shore Dr & Monroe St to DuSable Lake Shore Dr & Monroe St (6,632 rides)
   - DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave (5,275 rides)
 
+
+**Top Starting Stations for Casual Riders**
+![Top Starting Stations for Casual Riders](viz_geographical_05_casual.png)
+
+
 Here's the [RStudio code](RStudio_code.r).
 
 
