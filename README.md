@@ -41,6 +41,8 @@ Here's a list of steps taken and questions that arose during the analysis:
 ###Ride Duration by Member Type:
   Ride duration distributions were visualized for both casual and annual members.
   It was noted that both groups had similar distributions with the majority of rides being within 20 minutes.
+  ![Ride Duration by Member Type](plot_ride_duration_distribution_by_member_type.png)
+  ![Ride Start Times by Member Type](plot_ride_start_times_by_member_type.png)
   
 ###Popular Routes:
   Routes were analyzed based on start and end stations to identify the most frequently used routes for casual and annual members.
