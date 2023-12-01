@@ -109,7 +109,7 @@ Strategic ad placement:
   - DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave
 
 Incentivize morning rides:
-- Recognizing the popularity of afternoon rides, consider offering morning discounts for casual riders. This approach aims to make membership more appealing during specific time slots.
+- Recognizing the popularity of afternoon rides, offer morning discounts for casual riders. This approach aims to make membership more appealing during specific time slots.
 
 
 **Measuring success**
@@ -123,4 +123,4 @@ The impact of the campaign will be tracked through:
 
 The success metrics will serve as a compass for data-driven decision-making. This approach allows for ongoing assessment and adjustments to the campaign strategy, ensuring adaptability to changing dynamics.
 
-In essence, this targeted marketing initiative aligns with Cyclistic's overarching goal of maximizing annual memberships for sustained and profitable growth.
+This targeted marketing initiative aligns with Cyclistic's overarching goal of maximizing annual memberships for sustained and profitable growth.
