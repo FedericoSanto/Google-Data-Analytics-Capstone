@@ -103,7 +103,7 @@ In conclusion, the analysis underscores a compelling opportunity for Cyclistic t
 **Recommended actions**
 
 Strategic ad placement:
-- Deploy printed ads strategically at high-traffic stations frequented by casual riders, including:
+- Deploy printed ads strategically at high-traffic stations frequented by casual riders, based on the most popular routes:
   - Streeter Dr & Grand Ave to Streeter Dr & Grand Ave
   - DuSable Lake Shore Dr & Monroe St to DuSable Lake Shore Dr & Monroe St
   - DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave
